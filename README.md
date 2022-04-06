@@ -7,3 +7,5 @@ Bu projede google'ın ilk web görünümünü html dilini kullanarak taklit etti
 Taklit edilen görünüm için [tıklayınız](https://web.archive.org/web/19981202230410if_/http://www.google.com/)
 
 ![Proje Görüntüsü](/img/Google%201998.png)
+
+kemalgumustabak
